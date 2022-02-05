@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "dotenv": "^15.0.0",
+    "express": "^4.17.2",
+    "expresss": "^0.0.0",
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.15.0"
+  },
+  "scripts": {
+    "start": "node server.js",
+    "seed": "node seeds/index.js"
+  },
+  "name": "e-commerce-back-end",
+  "description": "",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tasevski87/E-commerce-Back-End.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tasevski87/E-commerce-Back-End/issues"
+  },
+  "homepage": "https://github.com/Tasevski87/E-commerce-Back-End#readme"
+}
